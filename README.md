@@ -71,6 +71,11 @@ pip install pillow
 ## 使用方法
 
 ### 图形界面版本（推荐）
+![image](https://github.com/user-attachments/assets/694ba23f-2b36-4817-93d8-a3a5c25a8d4c)
+![image](https://github.com/user-attachments/assets/949b0e9e-f6d4-477c-a03a-2dc12aec92b4)
+![image](https://github.com/user-attachments/assets/2e05ca6f-6f4b-4dea-a710-af12a1e4e47e)
+
+
 
 1. 运行GUI程序：
 
