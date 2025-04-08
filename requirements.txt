@@ -1,0 +1,2 @@
+pillow>=9.0.0
+# tkinter是Python标准库的一部分，不需要额外安装
